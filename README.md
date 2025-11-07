@@ -12,15 +12,15 @@ Minha trajetória une raciocínio lógico, pensamento analítico e paixão por t
 
 
 
- Objetivo Profissional
+## Objetivo Profissional
 
 Aprimorar continuamente minhas habilidades técnicas e contribuir para o desenvolvimento de projetos inovadores que unam tecnologia e propósito, entregando resultados que gerem impacto e valor para empresas e usuários.
 
 
 
 
- 📫 Contato
+## 📫 Contato
 
-LinkedIn:  https://www.linkedin.com/in/let%C3%ADcia-santana-de-araujo-27a005231/
-E-mail: leticia.santana08@hotmail.com
+- LinkedIn:  https://www.linkedin.com/in/let%C3%ADcia-santana-de-araujo-27a005231/
+- E-mail: leticia.santana08@hotmail.com
 
