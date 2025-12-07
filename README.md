@@ -6,9 +6,9 @@ Minha trajetória une raciocínio lógico, pensamento analítico e paixão por t
 
 ## 💻 Tecnologias e Competências
 
-- Frontend:** HTML, CSS, JavaScript, Angular  
-- Desenvolvimento de Sistemas:** foco em performance, usabilidade e boas práticas  
-- Metodologias:** versionamento com Git e colaboração em ambientes ágeis  
+- Frontend: HTML, CSS, JavaScript, Angular  
+- Desenvolvimento de Sistemas: foco em performance, usabilidade e boas práticas  
+- Metodologias: versionamento com Git e colaboração em ambientes ágeis  
 
 
 
